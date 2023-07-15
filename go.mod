@@ -1,4 +1,4 @@
-module github.com/mozillazg/go-httpheader
+module github.com/ur2-ltd/go-httpheader
 
 go 1.11
 
